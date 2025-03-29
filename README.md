@@ -21,5 +21,7 @@ This README document will be updated as each Task is submitted.</br>
 |3 |task_3.ipynb|08/03/2025|
 |4 |task_4.ipynb|16/03/2025|
 |5 |task_5.ipynb|17/03/2025|
+|6 |task_6.ipynb|29/03/2025|
+
 
 
